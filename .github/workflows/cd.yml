@@ -20,7 +20,3 @@ jobs:
       
       - name: buil the app
         run: ./scripts/buildprod.sh
-
-
- 
-        run: gosec ./...
